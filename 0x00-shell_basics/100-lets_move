@@ -1,2 +1,2 @@
 #!/bin/bash
-mv README.md /tmp/u
+Find . -name [[:upper:]]* -exec mv -t /tmp/u {} +
