@@ -1,0 +1,9 @@
+onnection closed by 18.205.41.139 port 22
+
+HP@DESKTOP-7QTGSCA MINGW64 ~
+$ ssh 6459efce9b63@6459efce9b63.c14bdeb2.alx-cod.online
+6459efce9b63@6459efce9b63.c14bdeb2.alx-cod.online's password:
+root@6459efce9b63:/# cd alx-system_engineering-devops
+root@6459efce9b63:/alx-system_engineering-devops# cd 0x02-shell_redirections
+root@6459efce9b63:/alx-system_engineering-devops/cd 0x02-shell_redirections# echo '#!/bin/bash' > 0-hello_world
+root@6459efce9b63:/alx-system_engineering-devops/cd 0x02-shell_redirections# echo 'Hello,World' >> 0-hello_world 
